@@ -1,6 +1,6 @@
 {
-  "name": "Material Design Theme",
-  "about_url": "https://meta.discourse.org/t/material-design-stock-theme/47142",
+  "name": "Material Design Fork",
+  "about_url": "https://github.com/hitorino/material-design-stock-theme",
   "license_url": "https://github.com/discourse/material-design-stock-theme/blob/master/LICENSE.txt",
   "color_schemes": {
     "Material Teal/Amber": {
