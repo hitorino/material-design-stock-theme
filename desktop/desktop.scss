@@ -47,7 +47,7 @@
 }
 
 //create conversation cards
-.topic-body {
+.topic-post:not(.comment) .topic-body {
   @include boxShadow;
   background-color: lighten($secondary, 10%);
   margin-top: 10px;
